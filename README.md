@@ -1,5 +1,7 @@
 # CursosApi
 
+![image](https://github.com/user-attachments/assets/fc5046fb-4192-4f2b-b9b9-0533225dd278)
+
 # API REST en Visual Studio 2022 conectada a MySQL y Frontend en React
 
 Vamos a dividir el proceso en dos partes:
